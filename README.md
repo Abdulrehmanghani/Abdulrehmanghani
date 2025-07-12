@@ -21,38 +21,9 @@ I specialize in optimizing AI models for edge deployment, computer vision applic
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## 📊 Featured Projects
-
-### 🧠 AI/ML Engineering
-
-#### [GPT-Document-processing](https://github.com/Abdulrehmanghani/GPT-Document-processing)
-Leveraging GPT models for efficient document processing and information extraction.
-
-#### [Neural-architecture-search-challenge](https://github.com/Abdulrehmanghani/Neural-architecture-search-challenge)
-Implementation for the Neural Architecture Search Challenge 2024, automating the design of neural networks for specific tasks on unseen data.
-
-#### [Medical Summaries Contribution](https://github.com/priya-dwivedi/medical_summaries)
-Contributed to Acrodocz Summarization project for efficient medical document processing.
-
-### 👁️ Computer Vision
-
-#### [DeepStream Face Recognition](https://github.com/AIVSTUDIOS/deepstream_face_recognition)
-High-performance face recognition system built with NVIDIA DeepStream using C++, optimized for real-time applications.
-
-#### [YOLO Speed Detection](https://github.com/Abdulrehmanghani/yolo_speed)
-Object detection with speed calculation using YOLO architecture, implementing multi-language optimizations.
-
-#### [Classification on OpenMV](https://github.com/Abdulrehmanghani/Classification-on-openmv)
-Image classification models optimized for the OpenMV platform, enabling ML on embedded camera systems.
-
-### 🚀 Edge AI Optimization
-
-#### [Accelerate-the-inference-at-edge](https://github.com/Abdulrehmanghani/Accelerate-the-inference-at-edge)
-Techniques and implementations for accelerating inference on edge devices with limited computational resources.
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulrehmanghani&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulrehmanghani&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrehmanghani&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
