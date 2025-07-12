@@ -22,9 +22,10 @@ I specialize in optimizing AI models for edge deployment, computer vision applic
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 📈 GitHub Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulrehmanghani&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulrehmanghani&show_icons=true&theme=radical&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrehmanghani&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrehmanghani&layout=compact&theme=radical&count_weight=1&size_weight=0)
 
 ## 🌐 Connect with Me
 
