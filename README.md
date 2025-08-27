@@ -6,11 +6,14 @@ I specialize in optimizing AI models for edge deployment, computer vision applic
 
 ## 🔭 Expertise
 
-- **Computer Vision:** Face recognition systems, object detection, speed calculation
-- **Edge AI:** Inference optimization for resource-constrained devices
-- **NLP:** Document processing and summarization, especially in the medical domain
-- **Deep Learning:** Neural architecture search and model optimization
+- **Programming & Development:** Python, C/C++, JavaScript/TypeScript, SQL
+- **Computer Vision:** Object Detection (YOLO, DETR, Faster R-CNN), Segmentation (HRNet, FCHarDNet, U-Net), Re-ID & Tracking, OpenCV, NVIDIA DeepStream
+- **Natural Language Processing (NLP):** Transformers (BERT, GPT, LLaMA), RAG Architectures, Text Summarization & Document Automation, LangChain, Vector Databases
+- **Generative AI & LLMs:** Prompt Engineering, Fine-Tuning LLMs, Diffusion Models (Stable Diffusion), Conversational AI / Agents
+- **Edge AI & Optimization:** NVIDIA Jetson, TensorRT, CUDA/GPU Optimization, Quantization & Pruning, TinyML (OpenMV, ESP32, Edge Impulse)
+- **Cloud & MLOps:** Azure ML, AWS SageMaker, Docker, Kubernetes, Apache Airflow, Triton Inference Server
 
+AI Product Development: End-to-End ML Pipelines, FastAPI / REST APIs, Experiment Tracking (Weights & Biases), Production Deployment
 ## 🚀 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
